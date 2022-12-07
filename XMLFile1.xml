@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+	<book>
+		<Name>
+			Harry Potter and the Sorcerer's Stone
+		</Name>
+		<Title>Fiction</Title>
+		<Author>J.K. Rowling</Author>
+		<Price>399.99$</Price>
+	</book>
+
+	<book>
+		<Name>
+			Lord of the Rings
+		</Name>
+		<Title>Fiction</Title>
+		<Author>Lord of the Rings</Author>
+		<Price>299.99$</Price>
+	</book>
+
+	<book>
+		<Name>
+			Alice's Adventures in Wonderland
+		</Name>
+		<Title>Novel</Title>
+		<Author> Lewis Carroll</Author>
+		<Price>589.99$</Price>
+	</book>
+
+	<book>
+		<Name>
+			Pinocchio
+		</Name>
+		<Title>Real Story</Title>
+		<Author> Carlo Collodi</Author>
+		<Price>469.99$</Price>
+	</book>
+
+	<book>
+		<Name>
+			Catcher in the Rye
+		</Name>
+		<Title>Novel</Title>
+		<Author>J.D. Salinger</Author>
+		<Price>199.99$</Price>
+	</book>
+</Books>
